@@ -2,7 +2,7 @@
 
 namespace App\Services;
 
-use Carlosfgti\MicroservicesCommon\Services\Traits\ConsumeExternalService;
+use Alissoncout\MicroservicesCommon\Services\Traits\ConsumeExternalService;
 
 class CompanyService
 {
