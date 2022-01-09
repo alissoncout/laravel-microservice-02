@@ -2,12 +2,12 @@
 [Saiba Mais Sobre o Curso](https://academy.especializati.com.br/curso/laravel-microservices-micro-02)
 
 ## Requisitos
-Este microservice 02 depende do microservice 01, portanto, primeiramente subir o [microservice 01](https://github.com/especializati/laravel-microservice-01)
+Este microservice 02 depende do microservice 01, portanto, primeiramente subir o [microservice 01](https://github.com/alissoncout/laravel-microservice-01)
 
 ### Instalação
 Clonar Projeto
 ```sh
-git clone https://github.com/especializati/laravel-microservice-02.git
+git clone https://github.com/alissoncout/laravel-microservice-02
 ```
 
 Acessar o projeto
